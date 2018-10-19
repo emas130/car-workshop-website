@@ -1,0 +1,18 @@
+CENNIK
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum:
+
+ 
+
+Serwis klimatyzacji	od 99 zł
+Wymiana opon	od 40 zł
+Wymiana klockówod	od 40 zł
+Wymiana amortyzatora	od 80 zł
+Wymiana tarcz hamulcowych	od 80 zł
+Wymiana wahacza	od 60 zł
+Wymiana paska rozrządu	od 250 zł
+Wymiana sprzęgła	od 200 zł
+Konserwacja podwozia	300 zł
+Diagnostyka komputerowa	50 zł
+Wymiana łącznika stabilizatora	od 30 zł
+ 
